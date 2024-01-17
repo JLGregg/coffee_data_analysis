@@ -15,3 +15,12 @@ I will be using the Coffee Bean Sales Raw Dataset. This is found on Kaggle at th
 - Excel - Data Cleaning
 - SQL - Data Analysis
 - Tableau - Data Visualization
+
+### Data Cleaning
+In the first steps of the project I load the datasets into Excel and review the data. The coffee dataset consists of 3 sheets called orders, customers, and products.<br>
+Raw Orders
+![rawOrders](https://github.com/JLGregg/coffee_data_analysis/assets/38503403/1b84be82-fb1a-4e7f-ac70-3891455bf6d5)
+Raw Customers
+![rawCustomers](https://github.com/JLGregg/coffee_data_analysis/assets/38503403/29cc1100-427b-49b8-8277-791e58e449c5)
+Raw Products     
+![rawProducts](https://github.com/JLGregg/coffee_data_analysis/assets/38503403/91b506ab-6c5c-4ce2-96ba-39f6f8d94a1c)
