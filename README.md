@@ -75,10 +75,11 @@ To answer this question, we can use SQL and get our total quantity sold and the 
 
 # Visualizing the Data
 
-AFter getting all my data and answering the questions I wanted to answer, I then go to Tableau to visualize the data so it is easier to understand. I first created sheets for each of my questions and then I created a dashboard by putting together the sheets I created.<br>
+After getting all my data and answering the questions I wanted to answer, I then go to Tableau to visualize the data so it is easier to understand. I first created sheets for each of my questions and then I created a dashboard by putting together the sheets I created.<br>
 ![image](https://github.com/JLGregg/coffee_data_analysis/assets/38503403/f6aa5827-942e-4c59-b2ef-fa6f7a468967)<br>
 
 Each pane can be interacted with and filtered according to the filters on the right side of the screen.<br>
+The top pane shows the sales over time between the four types of coffee. The bottom left pane shows coffee sales by country while the bottom middle shows the roast type that is sold the most and the bottom right shows the top 5 customers.
 My coffee overview can be found at this link: https://public.tableau.com/app/profile/jason.gregg/viz/CoffeeSalesOverview/CoffeeOverview?publish=yes
 
 
